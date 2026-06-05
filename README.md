@@ -3,8 +3,6 @@
 2) DetectingSpamEmails
 3) SMS-SpamDetection
 4) ClassifyTextDocuments
-5) TwitterSentimentAnalysis
-6) FacebookSentimentAnalysis
 7) CountnumberofFaces
 8) CountnumberofObject
 9) HousePricePrediction
