@@ -3,8 +3,6 @@
 2) DetectingSpamEmails
 3) SMS-SpamDetection
 4) ClassifyTextDocuments
-7) CountnumberofFaces
-8) CountnumberofObject
 9) HousePricePrediction
 10) WineQualityPrediction
 11) IPLScorePredictionUsingDeepLearning
