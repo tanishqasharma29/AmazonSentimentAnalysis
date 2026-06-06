@@ -3,12 +3,11 @@
 2) DetectingSpamEmails
 3) SMS-SpamDetection
 4) ClassifyTextDocuments
-   
-11) IPLScorePredictionUsingDeepLearning
-12) CaloriesBurntPredictionusingMachineLearning
-13) TitanicSurvivalPrediction
-14) PredictFuelEfficiency
-15) LicensePlateRecognition
+5) IPLScorePredictionUsingDeepLearning
+6) CaloriesBurntPredictionusingMachineLearning
+7) TitanicSurvivalPrediction
+8) PredictFuelEfficiency
+9) LicensePlateRecognition
 
 
 
